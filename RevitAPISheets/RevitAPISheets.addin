@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\Program Files\RevitAPITrainig\RevitAPISheets.dll"</Assembly>
+    <AddInId>B950D7AA-3338-4940-B7FE-A46E9F5B46F1</AddInId>
+    <FullClassName>RevitAPISheets.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>CreateSheets</Text>
+  </AddIn>
+</RevitAddIns>
